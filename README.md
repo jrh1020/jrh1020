@@ -1,6 +1,7 @@
 # Jacob Hensel
-### Glass Technology Engineer
+#### Glass Technology Engineer
 
+#### Education
 - Oregon State University Computer Science (2023 - Present)
 - University of Washington Chemical Engineering (2013 - 2017)
 
