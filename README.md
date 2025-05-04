@@ -2,7 +2,7 @@
 #### Glass Technology Engineer
 
 #### Education
-- Oregon State University Computer Science (2023 - Present)
+- Oregon State University Computer Science (2023 - 2025)
 - University of Washington Chemical Engineering (2013 - 2017)
 
 I am currently learning computer science with a focus on parallelization. My interests include computational software (especially CFD), graphics, and artificial intelligence.
